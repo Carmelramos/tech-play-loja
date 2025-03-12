@@ -1,0 +1,33 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 700px;
+}
+
+#section-login{
+    height: 100%;
+    width: 400px;
+    border-radius: 10px;
+    border: 2px solid #992765;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.logo{
+    width: 50%;
+    padding-bottom: 20px;
+}
+
+h2{
+    color: #992765;
+}
+
+a{
+    text-decoration: none;
+    color: #992765;
+}
