@@ -19,12 +19,12 @@ Loja virtual desenvolvida com **Angular** como projeto prático do curso Fullsta
 - Separação entre menu, rodapé e conteúdo principal
 - Organização em pastas por responsabilidade
 
-##💡 Próximos passos
+## 💡 Próximos passos
 
-- Finalizar o componente de login
-- Adicionar lista de produtos
-- Criar página de detalhes do produto
-- Implementar carrinho de compras
-- Consumir uma API externa ou mock de produtos
+- Finalizar o componente de **login**
+- Adicionar **lista de produtos**
+- Criar **página de detalhes do produto**
+- Implementar **carrinho de compras**
+- Consumir uma **API externa** ou **mock de produtos**
 
 
