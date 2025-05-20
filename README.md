@@ -1,27 +1,30 @@
-# LojaGames
+# 🕹️ Tech Play - Loja Virtual de Games
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Loja virtual desenvolvida com **Angular** como projeto prático do curso Fullstack (SENAI). O sistema simula um e-commerce de games, com navegação por componentes e estrutura modular.
 
-## Development server
+## 🚀 Tecnologias utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Angular 15
+- TypeScript
+- HTML5
+- CSS3
+- Angular CLI
+- Visual Studio Code
 
-## Code scaffolding
+## 📌 Funcionalidades implementadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Página inicial com layout responsivo
+- Estrutura modular com componentes Angular
+- Navegação por rotas (`app-routing.module.ts`)
+- Separação entre menu, rodapé e conteúdo principal
+- Organização em pastas por responsabilidade
 
-## Build
+##💡 Próximos passos
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Finalizar o componente de login
+- Adicionar lista de produtos
+- Criar página de detalhes do produto
+- Implementar carrinho de compras
+- Consumir uma API externa ou mock de produtos
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
